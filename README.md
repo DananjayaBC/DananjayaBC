@@ -71,6 +71,7 @@
      </tr>
     </table>
 </details>
-### Interesting stats
+
+ Interesting stats✔
 
 ![Dananjaya's stats](https://github-readme-stats.vercel.app/api?username=alkhachatryan&show_icons=true)
